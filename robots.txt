@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bailbonds-longbeach.com/sitemap.xml
